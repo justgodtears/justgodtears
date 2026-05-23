@@ -65,8 +65,6 @@ ETL pipeline that fetches daily stock market data from the Alpha Vantage API, tr
 End-to-end data engineering project on public Polish healthcare datasets. Built five analytical tables, including hospital geocoding via the Google Maps API, ICD-10 diagnosis data, drug treatment records, and a drug registry parsed from raw URPL data.
 `Python` · `Polars` · `DuckDB` · `Streamlit`
 
-> 💡 Pin these repos in your GitHub profile settings so they show right under this README.
-
 ---
 
 ### 📊 GitHub Stats
