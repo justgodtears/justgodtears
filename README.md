@@ -70,8 +70,17 @@ End-to-end data engineering project on public Polish healthcare datasets. Built 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justgodtears&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justgodtears&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justgodtears&theme=tokyonight" alt="GitHub profile summary" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justgodtears&theme=tokyonight" alt="Repos per language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=justgodtears&theme=tokyonight" alt="Most used languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justgodtears&theme=tokyonight" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=justgodtears&theme=tokyonight&utcOffset=2" alt="Productive time" height="180"/>
 </p>
 
 <p align="center">
