@@ -65,6 +65,10 @@ ETL pipeline that fetches daily stock market data from the Alpha Vantage API, tr
 End-to-end data engineering project on public Polish healthcare datasets. Built five analytical tables, including hospital geocoding via the Google Maps API, ICD-10 diagnosis data, drug treatment records, and a drug registry parsed from raw URPL data.
 `Python` · `Polars` · `DuckDB` · `Streamlit`
 
+**🚗 [DCM — Data Catalog for Motorization](https://github.com/justgodtears/DCM)**
+Analytical dashboard and data pipeline for Polish vehicle registration data from the CEPIK registry, covering over two decades (2000–2026) of passenger car registrations. Includes a data-quality pipeline (brand normalization, anomaly handling), regional drill-downs down to *powiat* level, and dedicated EV/hybrid fuel-trend analytics.
+`Python` · `Polars` · `Streamlit` · `CEPIK API`
+
 ---
 
 ### 📊 GitHub Stats
