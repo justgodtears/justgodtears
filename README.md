@@ -18,7 +18,7 @@ I'm focused on growing into a **Machine Learning Engineer / Data Engineer** role
 
 - 🔭 **Building toward ML/DE:** end-to-end data pipelines, computer vision, and ML projects
 - 🎓 **Studying:** Computer Science, specialization in **Artificial Intelligence**
-- 🏦 **Day job:** **C# RPA Developer @ ING** — automation in a production banking environment
+- 🏦 **Day job:** **C# Developer @ ING** — automation in a production banking environment
 - 🔥 **Daily coding streak** — I ship or learn something every single day
 - 🌱 **Currently leveling up:** ML engineering workflows, data modeling, and cloud data platforms
 
