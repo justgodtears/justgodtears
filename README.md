@@ -51,6 +51,14 @@ I'm focused on growing into a **Machine Learning Engineer / Data Engineer** role
 ---
 
 ### 📌 Featured Projects
+**🧠 [JetGPT — GPT Built From Scratch](https://github.com/justgodtears/jetgpt)**
+A 32.7M-parameter decoder-only transformer trained completely from scratch, with no pretrained weights and no `transformers` library. The entire pipeline is hand-built: a Jetstream ingestion client (live tail + historical snapshot), a cleaning pipeline that turned 65M+ raw Bluesky posts into a 58M-post English corpus (~1.72B tokens), a custom 24k BPE tokenizer, manually implemented causal multi-head attention, and the training loop. Trained on a single RTX 5070 Ti laptop GPU (12 GB VRAM), with a **live demo on Hugging Face Spaces**.
+`Python` · `PyTorch` · `Transformers` · `BPE` · `Bluesky Jetstream` · `uv`
+→ [Try the live demo](https://huggingface.co/spaces/justgodtears/jetgpt)
+
+**🗂️ [MachineReddit — Unsupervised Topic Modeling](https://github.com/justgodtears/MachineReddit)**
+Topic discovery on Reddit comments (May 2015, 54.5M-row corpus, 20k random sample) with no labels. Pipeline: sentence embeddings (`all-distilroberta-v1`) → UMAP (768→5 dims) → HDBSCAN, with TF-IDF keyword extraction per cluster. Surfaced four coherent themes (sports, entertainment, general discussion, trading) and flagged ~37% of comments as noise. The key finding: data cleaning (bot removal, language filtering) mattered far more than the choice of embedding model or UMAP parameters.
+`Python` · `sentence-transformers` · `UMAP` · `HDBSCAN` · `scikit-learn` · `SQLite`
 
 **🚦 [JustCV — Urban Traffic Monitor](https://github.com/justgodtears/JustCV)**
 Real-time traffic monitoring system built on YOLOv8. Detects and counts vehicles, pedestrians, and cyclists from video, with a Gradio web UI and a **live demo on Hugging Face Spaces**. Hits ~60 FPS at 1080p on an RTX 3060.
