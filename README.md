@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Aspiring Machine Learning & Data Engineer</b><br/>
-  Building data pipelines and automation • CS student (AI specialization) • C# RPA Developer @ ING
+  Building data pipelines and automation • CS student (AI specialization) • C# Developer @ ING
 </p>
 
 <p align="center">
